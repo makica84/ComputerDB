@@ -27,14 +27,14 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 3330908500,
+  "duration": 3311961400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 309045000,
+  "duration": 276057500,
   "status": "passed"
 });
 formatter.scenario({
@@ -75,28 +75,28 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iLeaveAllFieldsEmpty()"
 });
 formatter.result({
-  "duration": 393441100,
+  "duration": 345723900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 271738800,
+  "duration": 265165600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 74707200,
+  "duration": 69102500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeRequiredFieldComputerNameHighlightedInRed()"
 });
 formatter.result({
-  "duration": 86953400,
+  "duration": 83723900,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -186,14 +186,14 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 173752000,
+  "duration": 196882900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 280644400,
+  "duration": 254687900,
   "status": "passed"
 });
 formatter.scenario({
@@ -244,7 +244,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName()"
 });
 formatter.result({
-  "duration": 77153400,
+  "duration": 133306100,
   "status": "passed"
 });
 formatter.match({
@@ -265,28 +265,28 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidIntroducedDateDiscontinuedDateAndCompany(String,String,String)"
 });
 formatter.result({
-  "duration": 539412400,
+  "duration": 491221000,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 263744300,
+  "duration": 361351400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 61533000,
+  "duration": 60546200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeRequiredFieldComputerNameHighlightedInRed()"
 });
 formatter.result({
-  "duration": 86699600,
+  "duration": 89103700,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -453,14 +453,14 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 151985000,
+  "duration": 173989400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 263078900,
+  "duration": 255049200,
   "status": "passed"
 });
 formatter.scenario({
@@ -527,7 +527,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 186377800,
+  "duration": 186100600,
   "status": "passed"
 });
 formatter.match({
@@ -540,7 +540,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 170804500,
+  "duration": 202942600,
   "status": "passed"
 });
 formatter.match({
@@ -557,28 +557,28 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 289349300,
+  "duration": 359400300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 284799600,
+  "duration": 279180100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 64239600,
+  "duration": 87267600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 88703200,
+  "duration": 92074800,
   "status": "passed"
 });
 formatter.background({
@@ -602,14 +602,14 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 185389100,
+  "duration": 181957100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 248497200,
+  "duration": 302639500,
   "status": "passed"
 });
 formatter.scenario({
@@ -676,7 +676,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 164766800,
+  "duration": 174194400,
   "status": "passed"
 });
 formatter.match({
@@ -689,7 +689,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 187493900,
+  "duration": 167961000,
   "status": "passed"
 });
 formatter.match({
@@ -706,28 +706,28 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 290263800,
+  "duration": 317199700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 279863900,
+  "duration": 257646000,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 76921100,
+  "duration": 70627300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 88135300,
+  "duration": 91019300,
   "status": "passed"
 });
 formatter.background({
@@ -751,15 +751,16 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 175498300,
+  "duration": 191394400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 245050000,
-  "status": "passed"
+  "duration": 78630400,
+  "error_message": "java.lang.NullPointerException\r\n\tat element.Button.findElementByIdAndClick(Button.java:98)\r\n\tat pages.CreateFormPage.clickOnAddNewComputerButton(CreateFormPage.java:40)\r\n\tat steps.CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer(CreateNewComputer_Steps.java:26)\r\n\tat ✽.And I click on the button Add a new computer(CreateNewComputer.feature:5)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 39,
@@ -825,8 +826,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 165311500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -838,8 +838,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 170674200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -855,29 +854,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 311503900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 4042364800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 59407900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 86080500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -900,15 +895,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 154448800,
-  "status": "passed"
+  "duration": 59303900,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 271523000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 40,
@@ -974,8 +969,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 166041600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -987,8 +981,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 190178900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1004,29 +997,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 288920000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 267528300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 95164600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87271600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -1049,15 +1038,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 168957300,
-  "status": "passed"
+  "duration": 21837600,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 244160600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 41,
@@ -1123,8 +1112,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 196200500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1136,8 +1124,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 186775000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1153,29 +1140,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 295898000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 246346200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 69834600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87532200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -1198,15 +1181,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 163587500,
-  "status": "passed"
+  "duration": 23846500,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 238683500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 42,
@@ -1272,8 +1255,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 176061500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1285,8 +1267,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 188966300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1302,29 +1283,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 306264400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 266722700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 72174600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 88393100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -1347,15 +1324,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 201605300,
-  "status": "passed"
+  "duration": 26665700,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 288088200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 43,
@@ -1421,8 +1398,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 204146600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1434,8 +1410,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 168346000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1451,29 +1426,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 307739200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 257994500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 83066800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 104509500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -1496,15 +1467,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 186431300,
-  "status": "passed"
+  "duration": 21971200,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 309866500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 44,
@@ -1570,8 +1541,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 165947900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1583,8 +1553,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 192520000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1600,29 +1569,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 324375600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 247688000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 61424300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 102227000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenarioOutline({
   "line": 47,
@@ -1788,15 +1753,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 222907100,
-  "status": "passed"
+  "duration": 22149800,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 386296200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 57,
@@ -1862,8 +1827,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 470814400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1875,8 +1839,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 252549800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1892,29 +1855,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 361461900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 243554900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 104618200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 81383500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -1937,15 +1896,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 166323700,
-  "status": "passed"
+  "duration": 23549400,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 335562300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 58,
@@ -2011,8 +1970,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 200343500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2024,8 +1982,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 89722700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2041,29 +1998,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 320812200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 262146000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 63995100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87535100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -2086,15 +2039,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 156067000,
-  "status": "passed"
+  "duration": 24582900,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 247426900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 59,
@@ -2160,8 +2113,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 198882300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2173,8 +2125,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 107803200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2190,29 +2141,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 292958600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 267168200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 64438700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87930200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -2235,15 +2182,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 159908800,
-  "status": "passed"
+  "duration": 19570000,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 244200000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 60,
@@ -2309,8 +2256,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 169156300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2322,8 +2268,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 102390600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2339,29 +2284,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 284199800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 259809500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 69967300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 106073700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -2384,15 +2325,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 170765800,
-  "status": "passed"
+  "duration": 25045700,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 246561000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 61,
@@ -2458,8 +2399,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 168030200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2471,8 +2411,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 104227300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2488,29 +2427,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 298126500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 258921700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 69377100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 89478800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -2533,15 +2468,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 166231200,
-  "status": "passed"
+  "duration": 26214900,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 243045000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 62,
@@ -2607,8 +2542,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 165698400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2620,8 +2554,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 104546000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2637,29 +2570,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 310381700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 261139800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 67490800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 100445100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -2682,15 +2611,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 180153200,
-  "status": "passed"
+  "duration": 11065100,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 287214600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 63,
@@ -2756,8 +2685,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 172991300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2769,8 +2697,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 106345600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2786,29 +2713,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 298635300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 282036900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 62604400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 86308800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -2831,15 +2754,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 161489600,
-  "status": "passed"
+  "duration": 26041600,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 267377000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 64,
@@ -2905,8 +2828,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 176383700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2918,8 +2840,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 110039200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -2935,29 +2856,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 329974700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 271042300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillNotBeAbleToCreateNewComputer()"
 });
 formatter.result({
-  "duration": 72681300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 84454300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenarioOutline({
   "line": 67,
@@ -3048,15 +2965,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 179259100,
-  "status": "passed"
+  "duration": 25781000,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(CreateNewComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 247428700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 76,
@@ -3115,8 +3032,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 177262000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -3136,29 +3052,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidIntroducedDateDiscontinuedDateAndCompany(String,String,String)"
 });
 formatter.result({
-  "duration": 491670600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iClickOnTheButtonCreateThisComputer()"
 });
 formatter.result({
-  "duration": 449356900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSuccessfullyCreateNewComputer()"
 });
 formatter.result({
-  "duration": 77132000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeSuccessfulMessage()"
 });
 formatter.result({
-  "duration": 56417800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.uri("DeleteComputer.feature");
 formatter.feature({
@@ -3211,36 +3123,33 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 172665800,
-  "status": "passed"
+  "duration": 11413200,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(DeleteComputer.feature:6)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 296485900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DeleteComputer_Steps.iClickOnTheButtonDeleteThisComputer()"
 });
 formatter.result({
-  "duration": 399479100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DeleteComputer_Steps.iWillSuccessfullyDeleteComputerFromTheList()"
 });
 formatter.result({
-  "duration": 76955700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DeleteComputer_Steps.iWillSeeValidationMessageDoneComputerHasBeenDeleted()"
 });
 formatter.result({
-  "duration": 54724800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.uri("EditComputer.feature");
 formatter.feature({
@@ -3271,15 +3180,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 159455300,
-  "status": "passed"
+  "duration": 27344400,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 324845200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 8,
@@ -3319,29 +3228,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iLeaveAllFieldsEmpty()"
 });
 formatter.result({
-  "duration": 367376300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 291031000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 61737700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeRequiredFieldComputerNameHighlightedInRed()"
 });
 formatter.result({
-  "duration": 89136900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenarioOutline({
   "line": 15,
@@ -3430,15 +3335,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 156390500,
-  "status": "passed"
+  "duration": 24956700,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 315859100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 24,
@@ -3488,8 +3393,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName()"
 });
 formatter.result({
-  "duration": 81775500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -3509,29 +3413,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidIntroducedDateDiscontinuedDateAndCompany(String,String,String)"
 });
 formatter.result({
-  "duration": 486811400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 285149800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 64331200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeRequiredFieldComputerNameHighlightedInRed()"
 });
 formatter.result({
-  "duration": 88379500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenarioOutline({
   "line": 27,
@@ -3697,15 +3597,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 198972700,
-  "status": "passed"
+  "duration": 24242600,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 313513100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 37,
@@ -3771,8 +3671,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 166672200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -3784,8 +3683,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 188178300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -3801,29 +3699,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 292005400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 251485700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 63731100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 88287200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -3846,15 +3740,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 182851600,
-  "status": "passed"
+  "duration": 11798700,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 287026300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 38,
@@ -3920,8 +3814,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 180071700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -3933,8 +3826,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 163360800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -3950,29 +3842,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 317340500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 363467900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 74993600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 85387900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -3995,15 +3883,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 176243000,
-  "status": "passed"
+  "duration": 11337000,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 298946600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 39,
@@ -4069,8 +3957,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 222373300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4082,8 +3969,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 224066000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4099,29 +3985,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 303611300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 288389300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 59787500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87764000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -4144,15 +4026,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 167515600,
-  "status": "passed"
+  "duration": 10483400,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 448530900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 40,
@@ -4218,8 +4100,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 190057900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4231,8 +4112,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 199709100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4248,29 +4128,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 317187200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 261226900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 67692600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87189300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -4293,15 +4169,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 158750400,
-  "status": "passed"
+  "duration": 12594400,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 274661700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 41,
@@ -4367,8 +4243,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 201609600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4380,8 +4255,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 172543500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4397,29 +4271,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 324214500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 244365100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 66313200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 85828300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -4442,15 +4312,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 154994600,
-  "status": "passed"
+  "duration": 26243700,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 260838300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 42,
@@ -4516,8 +4386,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 195785600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4529,8 +4398,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 201246300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4546,29 +4414,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 293068600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 251342600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 59400000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 86561800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -4591,15 +4455,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 186930800,
-  "status": "passed"
+  "duration": 26453500,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 274676000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 43,
@@ -4665,8 +4529,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 173533100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4678,8 +4541,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 172014600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4695,29 +4557,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 287819400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 271241000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 102529000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 112181300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -4740,15 +4598,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 166839800,
-  "status": "passed"
+  "duration": 11810600,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 286036500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 44,
@@ -4814,8 +4672,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 199549500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4827,8 +4684,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForIntroducedDateField(String)"
 });
 formatter.result({
-  "duration": 171851100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -4844,29 +4700,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalFields1(String,String)"
 });
 formatter.result({
-  "duration": 341533100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 254346700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 59859400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeIntroducedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 88295800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenarioOutline({
   "line": 48,
@@ -5032,15 +4884,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 172805400,
-  "status": "passed"
+  "duration": 24362600,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 268101000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 58,
@@ -5106,8 +4958,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 174253900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5119,8 +4970,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 106222700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5136,29 +4986,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 313289600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 272776700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 59856100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 86265200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -5181,15 +5027,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 163522100,
-  "status": "passed"
+  "duration": 26332500,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 305957400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 59,
@@ -5255,8 +5101,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 212440700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5268,8 +5113,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 105792600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5285,29 +5129,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 314591100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 256909500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 56679900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87744900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -5330,15 +5170,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 159672600,
-  "status": "passed"
+  "duration": 24084100,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 264702300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 60,
@@ -5404,8 +5244,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 178988800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5417,8 +5256,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 102314900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5434,29 +5272,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 286910700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 266865300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 63174200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87260000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -5479,15 +5313,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 159149100,
-  "status": "passed"
+  "duration": 10295100,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 267528300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 61,
@@ -5553,8 +5387,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 191681300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5566,8 +5399,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 103606300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5583,29 +5415,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 298685800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 249938400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 61218800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 102014400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -5628,15 +5456,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 156993100,
-  "status": "passed"
+  "duration": 10371000,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 277682900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 62,
@@ -5702,8 +5530,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 180242200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5715,8 +5542,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 101541100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5732,29 +5558,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 334893200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 252098800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 64849000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 99503600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -5777,15 +5599,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 156361300,
-  "status": "passed"
+  "duration": 11322100,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 257135200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 63,
@@ -5851,8 +5673,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 175715700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5864,8 +5685,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 103283200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -5881,29 +5701,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 331174500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 252018400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 64243300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 103265600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -5926,15 +5742,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 163409700,
-  "status": "passed"
+  "duration": 11868800,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 291043100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 64,
@@ -6000,8 +5816,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 170240500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6013,8 +5828,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 98332000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6030,29 +5844,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 309489800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 279915200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 71168900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 87557500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.background({
   "line": 3,
@@ -6075,15 +5885,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 171642700,
-  "status": "passed"
+  "duration": 26601200,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 274584500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 65,
@@ -6149,8 +5959,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterNameInComputerFieldName(String)"
 });
 formatter.result({
-  "duration": 190724100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6162,8 +5971,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterWrongDateFormatForDiscontinuedField(String)"
 });
 formatter.result({
-  "duration": 102016700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6179,29 +5987,25 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidDataForTheRestOfOptionalField2(String,String)"
 });
 formatter.result({
-  "duration": 314233600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 259966500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillNotBeAbleToUpdateComputer()"
 });
 formatter.result({
-  "duration": 89193100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "CreateNewComputer_Steps.iWillSeeDiscontinuedDateFieldHighlightedInRed()"
 });
 formatter.result({
-  "duration": 83181400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenarioOutline({
   "line": 68,
@@ -6292,15 +6096,15 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iAmOnTheComputerDatabaseList()"
 });
 formatter.result({
-  "duration": 180447300,
-  "status": "passed"
+  "duration": 10054200,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d99.0.4844.74)\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027GS-ARI7C\u0027, ip: \u0027172.19.128.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.74, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\\Users\\marijas\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55584}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 58b094ae2f81675239d9e3dc93bbd796\r\n\tat sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat element.Navigate.goToUrl(Navigate.java:11)\r\n\tat pages.CreateFormPage.navigateToEnv(CreateFormPage.java:35)\r\n\tat steps.CreateNewComputer_Steps.iAmOnTheComputerDatabaseList(CreateNewComputer_Steps.java:22)\r\n\tat ✽.Given I am on the computer database list(EditComputer.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonAddNewComputer()"
 });
 formatter.result({
-  "duration": 286485500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 77,
@@ -6359,8 +6163,7 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterTestInComputerField(String)"
 });
 formatter.result({
-  "duration": 164418800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6380,28 +6183,24 @@ formatter.match({
   "location": "CreateNewComputer_Steps.iEnterValidIntroducedDateDiscontinuedDateAndCompany(String,String,String)"
 });
 formatter.result({
-  "duration": 462920800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iClickOnTheButtonSaveThisComputer()"
 });
 formatter.result({
-  "duration": 386766300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillSuccessfullyUpdateComputerWithNewData()"
 });
 formatter.result({
-  "duration": 56164300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "EditComputer_Steps.iWillSeeSuccessfulMessage()"
 });
 formatter.result({
-  "duration": 56753200,
-  "status": "passed"
+  "status": "skipped"
 });
 });
