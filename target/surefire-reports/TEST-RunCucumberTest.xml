@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="340" failures="0" name="RunCucumberTest" time="0.01" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\bin"/>
+    <property name="java.vm.version" value="25.291-b10"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\marijas\IdeaProjects\cucumberProject"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="test" value="RunCucumberTest"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\marijas\IdeaProjects\cucumberProject"/>
+    <property name="java.runtime.version" value="1.8.0_291-b10"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\marijas\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.8.1\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_291\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\apache-maven-3.8.1\bin;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Gradle\gradle-7.1\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Nordic Semiconductor\nrf-command-line-tools\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Users\marijas\.dotnet\tools;C:\Users\marijas\AppData\Local\Programs\Fiddler;C:\Program Files (x86)\BrowserStackLocal\;."/>
+    <property name="maven.conf" value="C:\apache-maven-3.8.1\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\apache-maven-3.8.1\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\marijas"/>
+    <property name="user.timezone" value="Europe/Prague"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="marijas"/>
+    <property name="java.class.path" value="C:\apache-maven-3.8.1\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_291\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dtest=RunCucumberTest test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_291"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.8.1\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Scenario: Verify that user is unable to create new computer with all fields empty" name="Given I am on the computer database list" time="0.002"/>
+  <testcase classname="Scenario: Verify that user is unable to create new computer with all fields empty" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to create new computer with all fields empty" name="And I leave all fields empty" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to create new computer with all fields empty" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to create new computer with all fields empty" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to create new computer with all fields empty" name="And I will see required field &quot;Computer name&quot; highlighted in red" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to create new computer with all fields empty" name="Scenario: Verify that user is unable to create new computer with all fields empty" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="And I leave empty Computer name field" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="And I enter valid 2020-01-01 date, 2021-02-02 date and 27" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="And I will see required field &quot;Computer name&quot; highlighted in red" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="| 2020-01-01 | 2021-02-02 | 27 |" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter test in Computer name field" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter wrong 01-01-2021 format for Introduced date field" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter valid 2021-01-01 Discontinued date and 1" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="| test | 01-01-2021 | 2021-01-01 | 1 |" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I enter test1 in Computer name field" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I enter wrong Jun format for Introduced date field" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I enter valid 2020-05-05 Discontinued date and 3" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="| test1 | Jun | 2020-05-05 | 3 |" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I enter 123456 in Computer name field" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I enter wrong 2021/01/01 format for Introduced date field" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I enter valid 2019-02-01 Discontinued date and 5" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I enter niña in Computer name field" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I enter wrong 2021-Jan-01 format for Introduced date field" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I enter valid 2018-03-01 Discontinued date and 7" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" time="0"/>
+  <testcase classname="Given I am on the computer database list(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="And I click on the button Add a new computer(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="And I enter !@#) in Computer name field(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I enter !@#) in Computer name field" time="0"/>
+  <testcase classname="And I enter wrong 2021.01.01 format for Introduced date field(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I enter wrong 2021.01.01 format for Introduced date field" time="0"/>
+  <testcase classname="And I enter valid 2017-04-04 Discontinued date and 9(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I enter valid 2017-04-04 Discontinued date and 9" time="0"/>
+  <testcase classname="When I click on the button Create this computer(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="When I click on the button Create this computer" time="0.001"/>
+  <testcase classname="Then I will not be able to create new computer(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="And I will see &quot;Introduced date&quot; field highlighted in red(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| !@#) | 2021.01.01 | 2017-04-04 | 9 |" name="| !@#) | 2021.01.01 | 2017-04-04 | 9 |" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I enter te st in Computer name field" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I enter wrong 2000_2_2 format for Introduced date field" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I enter valid 2016-05-05 Discontinued date and 11" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="| te st | 2000_2_2 | 2016-05-05 | 11 |" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="Given I am on the computer database list(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I click on the button Add a new computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I enter TEST in Computer name field(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I enter wrong !@#)(&amp;_^*? format for Introduced date field(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I enter valid 2018-03-01 Discontinued date and 13(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="When I click on the button Create this computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="Then I will not be able to create new computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I will see &quot;Introduced date&quot; field highlighted in red(| TEST | !@#)" time="0"/>
+  <testcase classname="| TEST | !@#)(&amp;_^*? | 2018-03-01 | 13 |" name="| TEST | !@#)" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I enter t in Computer name field" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I enter wrong 2021 format for Introduced date field" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I enter valid 2018-03-01 Discontinued date and 15" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="Then I will not be able to create new computer" time="0.001"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="| t | 2021 | 2018-03-01 | 15 |" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter test in computer name field" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter wrong 01-01-2021 format for Discontinued date field" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter valid 2021-01-01 Introduced date and 1" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="| test | 01-01-2021 | 2021-01-01 | 1 |" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I enter test1 in computer name field" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I enter wrong Jun format for Discontinued date field" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I enter valid 2020-05-05 Introduced date and 4" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="| test1 | Jun | 2020-05-05 | 4 |" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I enter 123456 in computer name field" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I enter wrong 2021/01/01 format for Discontinued date field" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I enter valid 2019-02-01 Introduced date and 6" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I enter niña in computer name field" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I enter wrong 2021-Jan-01 format for Discontinued date field" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I enter valid 2018-03-01 Introduced date and 8" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" time="0"/>
+  <testcase classname="Given I am on the computer database list(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="And I click on the button Add a new computer(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="And I enter !@#) in computer name field(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I enter !@#) in computer name field" time="0"/>
+  <testcase classname="And I enter wrong 2021.01.01 format for Discontinued date field(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I enter wrong 2021.01.01 format for Discontinued date field" time="0"/>
+  <testcase classname="And I enter valid 2017-04-04 Introduced date and 10(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I enter valid 2017-04-04 Introduced date and 10" time="0"/>
+  <testcase classname="When I click on the button Create this computer(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="Then I will not be able to create new computer(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="And I will see &quot;Discontinued date&quot; field highlighted in red(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| !@#) | 2021.01.01 | 2017-04-04 | 10 |" name="| !@#) | 2021.01.01 | 2017-04-04 | 10 |" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I enter te st in computer name field" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I enter wrong 2000_2_2 format for Discontinued date field" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I enter valid 2016-05-05 Introduced date and 12" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="| te st | 2000_2_2 | 2016-05-05 | 12 |" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="Given I am on the computer database list(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I click on the button Add a new computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I enter TEST in computer name field(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I enter wrong !@#)(&amp;_^*? format for Discontinued date field(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I enter valid 2018-03-01 Introduced date and 14(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="When I click on the button Create this computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="Then I will not be able to create new computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red(| TEST | !@#)" time="0"/>
+  <testcase classname="| TEST | !@#)(&amp;_^*? | 2018-03-01 | 14 |" name="| TEST | !@#)" time="0.001"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I enter t in computer name field" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I enter wrong 2021 format for Discontinued date field" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I enter valid 2018-03-01 Introduced date and 16" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="Then I will not be able to create new computer" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="| t | 2021 | 2018-03-01 | 16 |" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="And I click on the button Add a new computer" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="And I enter test in computer name field" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="And I enter valid 1999-01-01 date, 2021-02-02 date and 1" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="When I click on the button Create this computer" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="Then I will successfully create new computer" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="And I will see message: &quot;Done! Computer test has been created!&quot;" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="| test | 1999-01-01 | 2021-02-02 | 1 |" time="0"/>
+  <testcase classname="Scenario: Verify that user is able to delete computer from the list" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="Scenario: Verify that user is able to delete computer from the list" name="When I click on the computer from the list" time="0"/>
+  <testcase classname="Scenario: Verify that user is able to delete computer from the list" name="And I click on the button Delete this computer" time="0"/>
+  <testcase classname="Scenario: Verify that user is able to delete computer from the list" name="Then I will successfully delete computer from the list" time="0"/>
+  <testcase classname="Scenario: Verify that user is able to delete computer from the list" name="And I will see validation message “Done! Computer has been deleted”" time="0"/>
+  <testcase classname="Scenario: Verify that user is able to delete computer from the list" name="Scenario: Verify that user is able to delete computer from the list" time="0.001"/>
+  <testcase classname="Scenario: Verify that user is unable to update computer with all fields empty" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to update computer with all fields empty" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to update computer with all fields empty" name="And I leave all fields empty" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to update computer with all fields empty" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to update computer with all fields empty" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to update computer with all fields empty" name="And I will see required field &quot;Computer name&quot; highlighted in red" time="0"/>
+  <testcase classname="Scenario: Verify that user is unable to update computer with all fields empty" name="Scenario: Verify that user is unable to update computer with all fields empty" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="And I leave empty Computer name field" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="And I enter valid 2020-01-01 date, 2021-02-02 date and 27" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="And I will see required field &quot;Computer name&quot; highlighted in red" time="0"/>
+  <testcase classname="| 2020-01-01 | 2021-02-02 | 27 |" name="| 2020-01-01 | 2021-02-02 | 27 |" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter test in Computer name field" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter wrong 01-01-2021 format for Introduced date field" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I enter valid 2021-01-01 Discontinued date and 1" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 1 |" name="| test | 01-01-2021 | 2021-01-01 | 1 |" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I enter test1 in Computer name field" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I enter wrong Jun format for Introduced date field" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I enter valid 2020-05-05 Discontinued date and 3" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 3 |" name="| test1 | Jun | 2020-05-05 | 3 |" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I enter 123456 in Computer name field" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I enter wrong 2021/01/01 format for Introduced date field" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I enter valid 2019-02-01 Discontinued date and 5" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" name="| 123456 | 2021/01/01 | 2019-02-01 | 5 |" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I enter niña in Computer name field" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I enter wrong 2021-Jan-01 format for Introduced date field" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I enter valid 2018-03-01 Discontinued date and 7" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" name="| niña | 2021-Jan-01 | 2018-03-01 | 7 |" time="0.001"/>
+  <testcase classname="Given I am on the computer database list(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="And I click on the computer from the list(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="And I enter !@#) in Computer name field(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I enter !@#) in Computer name field" time="0"/>
+  <testcase classname="And I enter wrong 2021.01.01 format for Introduced date field(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I enter wrong 2021.01.01 format for Introduced date field" time="0"/>
+  <testcase classname="And I enter valid 2017-04-04 Discontinued date and 9(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I enter valid 2017-04-04 Discontinued date and 9" time="0"/>
+  <testcase classname="When I click on the button Save this computer(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="Then I will not be able to update computer(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="And I will see &quot;Introduced date&quot; field highlighted in red(| !@#) | 2021.01.01 | 2017-04-04 | 9 |)" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| !@#) | 2021.01.01 | 2017-04-04 | 9 |" name="| !@#) | 2021.01.01 | 2017-04-04 | 9 |" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I enter te st in Computer name field" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I enter wrong 2000_2_2 format for Introduced date field" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I enter valid 2016-05-05 Discontinued date and 11" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 11 |" name="| te st | 2000_2_2 | 2016-05-05 | 11 |" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="Given I am on the computer database list(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I click on the computer from the list(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I enter TEST in Computer name field(| TEST | !@#)" time="0.001"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I enter wrong !@#)(&amp;_^*? format for Introduced date field(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I enter valid 2018-03-01 Discontinued date and 13(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="When I click on the button Save this computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="Then I will not be able to update computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 13 |" name="And I will see &quot;Introduced date&quot; field highlighted in red(| TEST | !@#)" time="0"/>
+  <testcase classname="| TEST | !@#)(&amp;_^*? | 2018-03-01 | 13 |" name="| TEST | !@#)" time="0.001"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I enter t in Computer name field" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I enter wrong 2021 format for Introduced date field" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I enter valid 2018-03-01 Discontinued date and 15" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="When I click on the button Save this computer" time="0.001"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="And I will see &quot;Introduced date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 15 |" name="| t | 2021 | 2018-03-01 | 15 |" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="And I enter test in Computer name field" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="And I enter wrong 01-01-2021 format for Discontinued date field" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="And I enter valid 2021-01-01 Introduced date and 2" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| test | 01-01-2021 | 2021-01-01 | 2 |" name="| test | 01-01-2021 | 2021-01-01 | 2 |" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I enter test1 in Computer name field" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I enter wrong Jun format for Discontinued date field" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I enter valid 2020-05-05 Introduced date and 4" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| test1 | Jun | 2020-05-05 | 4 |" name="| test1 | Jun | 2020-05-05 | 4 |" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I enter 123456 in Computer name field" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I enter wrong 2021/01/01 format for Discontinued date field" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I enter valid 2019-02-01 Introduced date and 6" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" name="| 123456 | 2021/01/01 | 2019-02-01 | 6 |" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I enter niña in Computer name field" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I enter wrong 2021-Jan-01 format for Discontinued date field" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I enter valid 2018-03-01 Introduced date and 8" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" name="| niña | 2021-Jan-01 | 2018-03-01 | 8 |" time="0"/>
+  <testcase classname="Given I am on the computer database list(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="And I click on the computer from the list(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="And I enter !@#) in Computer name field(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I enter !@#) in Computer name field" time="0"/>
+  <testcase classname="And I enter wrong 2021.01.01 format for Discontinued date field(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I enter wrong 2021.01.01 format for Discontinued date field" time="0"/>
+  <testcase classname="And I enter valid 2017-04-04 Introduced date and 10(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I enter valid 2017-04-04 Introduced date and 10" time="0"/>
+  <testcase classname="When I click on the button Save this computer(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="Then I will not be able to update computer(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="And I will see &quot;Discontinued date&quot; field highlighted in red(| !@#) | 2021.01.01 | 2017-04-04 | 10 |)" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| !@#) | 2021.01.01 | 2017-04-04 | 10 |" name="| !@#) | 2021.01.01 | 2017-04-04 | 10 |" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I enter te st in Computer name field" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I enter wrong 2000_2_2 format for Discontinued date field" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I enter valid 2016-05-05 Introduced date and 12" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| te st | 2000_2_2 | 2016-05-05 | 12 |" name="| te st | 2000_2_2 | 2016-05-05 | 12 |" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="Given I am on the computer database list(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I click on the computer from the list(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I enter TEST in Computer name field(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I enter wrong !@#)(&amp;_^*? format for Discontinued date field(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I enter valid 2018-03-01 Introduced date and 14(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="When I click on the button Save this computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="Then I will not be able to update computer(| TEST | !@#)" time="0"/>
+  <testcase classname="&amp;_^*? | 2018-03-01 | 14 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red(| TEST | !@#)" time="0"/>
+  <testcase classname="| TEST | !@#)(&amp;_^*? | 2018-03-01 | 14 |" name="| TEST | !@#)" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I enter t in Computer name field" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I enter wrong 2021 format for Discontinued date field" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I enter valid 2018-03-01 Introduced date and 16" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="Then I will not be able to update computer" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="And I will see &quot;Discontinued date&quot; field highlighted in red" time="0"/>
+  <testcase classname="| t | 2021 | 2018-03-01 | 16 |" name="| t | 2021 | 2018-03-01 | 16 |" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="Given I am on the computer database list" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="And I click on the computer from the list" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="And I enter test in computer name field" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="And I enter valid 1999-01-01 date, 2021-02-02 date and 1" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="When I click on the button Save this computer" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="Then I will successfully update computer with new data" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="And I will see message: &quot;Done! Computer test has been updated!&quot;" time="0"/>
+  <testcase classname="| test | 1999-01-01 | 2021-02-02 | 1 |" name="| test | 1999-01-01 | 2021-02-02 | 1 |" time="0"/>
+</testsuite>
