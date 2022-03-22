@@ -7,7 +7,7 @@ Project 'ComputerDB' is based on Page Object Model (POM) design pattern, which i
 the WebElements, Page Methods and the Test execution.
 ---
 
-###Prerequisites:
+git Prerequisites:
 
 **Software tools used in project:**
 
@@ -33,11 +33,9 @@ the WebElements, Page Methods and the Test execution.
    
    Instructions: [maven](https://maven.apache.org/install.html#)
    
-3. Download chomedriver and set path
-   
-   Instructions: [chromedriver](https://chromedriver.chromium.org/downloads)
+
 ---   
-###How to execute Tests:
+How to execute Tests:
 
 **From IDE**
 
@@ -53,4 +51,4 @@ the WebElements, Page Methods and the Test execution.
    Execute next command:
    
    * mvn test -Dtest=RunCucumberTest test
-
+   
