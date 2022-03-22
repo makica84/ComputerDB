@@ -18,7 +18,6 @@ import org.junit.runner.RunWith;
 )
 
     public class RunCucumberTest {}
-
 /**
  *  For cmd command to run tests
     mvn test -Dtest=RunCucumberTest test
